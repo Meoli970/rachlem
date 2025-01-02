@@ -234,6 +234,6 @@ header{
         gap: 0;
     }
     #navMenu{
-         flex-direction: column;
+        flex-direction: column;
     }
 }
