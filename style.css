@@ -233,4 +233,7 @@ header{
         flex-direction: column;
         gap: 0;
     }
+    #navMenu{
+         flex-direction: column;
+    }
 }
