@@ -235,5 +235,6 @@ header{
     }
     #navMenu{
         flex-direction: column;
+        padding-bottom: 10px;
     }
 }
